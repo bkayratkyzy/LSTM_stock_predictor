@@ -1,4 +1,3 @@
-# deep_learning_HW14
 
 # LSTM Stock Predictor
 
